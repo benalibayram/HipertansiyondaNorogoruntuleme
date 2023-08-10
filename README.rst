@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Projemizin Paylaşım Platformu
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Bu projede Hipertansif olgular üzerine yaptığımız çalışmalar yer almaktadır.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Beyindeki damarın işlevselliği ve muhtemel bozuklukların beyin fonksiyonlarına ve beyindeki bağlantısallık ağlarına yansımaları değerlendirilmektedir.
